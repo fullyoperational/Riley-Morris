@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Riley Morris
+- 👀 I’m interested in becoming a software developer
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on anything that will help me advance my understanding
+- 📫 How to reach me - email - rileymichaelmorris@gmail.com
